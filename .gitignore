@@ -1,3 +1,8 @@
+#Ignoring .DS_Store file 
+#No other document is showing up when I did a 'git status'
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
